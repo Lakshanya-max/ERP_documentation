@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-FUTURE/future-enhancements.md",
+                "file": "7-MODULES/Users/overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "future-enhancements"
+              "title": "overview"
             }
           }
         ]
@@ -182,31 +182,38 @@
   },
   "active": "3f75c4326e7f72fd",
   "lastOpenFiles": [
-    "7-MODULES/weekly-wages/overview.md",
-    "7-MODULES/weekly-wages/flow.md",
-    "7-MODULES/weekly-wages/advance.md",
-    "7-MODULES/dc-management/flow.md",
-    "7-MODULES/dc-management/overview.md",
-    "7-MODULES/dc-management/return.md",
-    "7-MODULES/po-bill-management/flow.md",
-    "7-MODULES/po-bill-management/bills.md",
-    "7-MODULES/po-bill-management/overview.md",
-    "7-MODULES/supplier-management/flow.md",
-    "7-MODULES/supplier-management/bills.md",
-    "7-MODULES/supplier-management/overview.md",
-    "7-MODULES/tasks/flow.md",
-    "7-MODULES/tasks/overview.md",
+    "7-MODULES/profit & loss/profit-loss.md",
+    "7-MODULES/Users/overview.md",
+    "7-MODULES/Users",
+    "7-MODULES/FAQ/overview.md",
+    "7-MODULES/profit & loss",
+    "7-MODULES/Untitled.md",
+    "7-MODULES/due_payment/due payment.md",
+    "7-MODULES/FAQ",
+    "7-MODULES/Audits/overview.md",
+    "7-MODULES/due_payment",
+    "7-MODULES/Approval status/overview.md",
+    "7-MODULES/Audits",
+    "7-MODULES/stock-management/overview.md",
+    "7-MODULES/Approval status",
+    "4-UI-UX/flow.md",
+    "3-BUSINESS-LOGIC/status-flow.md",
     "7-MODULES/tasks/types.md",
-    "7-MODULES/orders/stages.md",
-    "7-MODULES/orders/flow.md",
-    "7-MODULES/orders/overview.md",
+    "7-MODULES/tasks/overview.md",
+    "7-MODULES/tasks/flow.md",
+    "7-MODULES/dc-management/return.md",
+    "7-MODULES/dc-management/overview.md",
+    "7-MODULES/dc-management/flow.md",
+    "6-ROLES/user-role.md",
+    "6-ROLES/admin-role.md",
     "5-ARCHITECTURE/overview.md",
     "5-ARCHITECTURE/security.md",
     "5-ARCHITECTURE/flow.md",
-    "6-ROLES/user-role.md",
-    "6-ROLES/admin-role.md",
     "4-UI-UX/screens.md",
     "4-UI-UX/overview.md",
-    "4-UI-UX/forms.md"
+    "4-UI-UX/forms.md",
+    "3-BUSINESS-LOGIC/workflow.md",
+    "3-BUSINESS-LOGIC/overview.md",
+    "7-MODULES/stock-management"
   ]
 }
