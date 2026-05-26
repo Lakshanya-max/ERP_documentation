@@ -8,10 +8,10 @@ Return DC manages the return of goods when a product is **damaged or the custome
 
 ## Return DC Types
 
-|Tab|What Happens|
-|---|---|
-|**Other Supplier**|Returned product sent to another customer/supplier who wants to redesign it for their needs|
-|**Stock**|Returned product stored in warehouse for future use|
+| Tab                | What Happens                                                                                |
+| ------------------ | ------------------------------------------------------------------------------------------- |
+| **Other Supplier** | Returned product sent to another customer/supplier who wants to redesign it for their needs |
+| **Stock**          | Returned product stored in warehouse for future use                                         |
 
 ---
 

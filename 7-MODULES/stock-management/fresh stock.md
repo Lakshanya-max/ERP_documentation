@@ -4,7 +4,7 @@
 
 Fresh Stock refers to **first-quality, defect-free inventory** — raw materials received in good condition from suppliers, and finished garments that have passed quality inspection and are ready for dispatch to customers.
 
-This is the primary stock category in Leo Fashion. All normal production and dispatch operations use fresh stock.
+This is the primary stock category in Leo Fashion. All normal production and disp atch operations use fresh stock.
 
 ---
 
